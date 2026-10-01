@@ -7,12 +7,12 @@ This repository holds the **downloads only**. The game's source lives elsewhere.
 
 ## Download
 
-Go to **[Releases](../../releases/latest)** and take the one for your machine:
+Go to **[Releases](../../releases)** and take the one for your machine:
 
 | | |
 |---|---|
-| **Mac** | `Dawnmere-mac.zip` |
-| **Windows** | `Dawnmere-win.zip` |
+| **Mac** | [`Dawnmere-mac.zip`](https://github.com/rawlingsfreak/demo_dawnmere/releases/download/v0.1-demo/Dawnmere-mac.zip) |
+| **Windows** | [`Dawnmere-win.zip`](https://github.com/rawlingsfreak/demo_dawnmere/releases/download/v0.1-demo/Dawnmere-win.zip) |
 
 Each download already contains `READ_ME_FIRST.md`. Please read it — it covers the keys and what is
 worth writing down.
