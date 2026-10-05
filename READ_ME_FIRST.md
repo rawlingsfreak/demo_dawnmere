@@ -54,14 +54,32 @@ the ending, not a crash. Everything after that is still being built.
 
 ---
 
+## New since the last build — this is what we most want eyes on
+
+- **The town.** Buildings and people have been moved. Rowan, Mara, Thom and Nessa should each be
+  standing somewhere that makes sense and should be *visible* — if anyone is behind a wall, on a
+  roof, or simply not there, say so.
+- **The farm.** The Old Holding opens in three stages and now tells you which one you are on and
+  what it is waiting for. If you still cannot tell why you can't do more, that is the note to send.
+- **The Hallow has thorns in it.** You cannot see them without a torch or the lantern, and they
+  hurt either way. Going down dark is supposed to cost you.
+- **The swamp.** There are mud islands and a second ruined tower in it now. The question is whether
+  you can tell where you are.
+- **Keys can be rebound** — Escape, then Controls.
+
+---
+
 ## Already known — please don't spend notes on these
 
-- **The town is laid out badly.** Buildings sit in the wrong places and people stand where they
-  were dropped. It is being redone.
-- **Townsfolk don't walk.** They have their own faces now but no walking animation, so they stand
-  still while they talk to you.
+- **Townsfolk don't walk.** They have their own faces but no walking animation, so they stand still
+  while they talk to you.
 - **Wren doesn't match everyone else.** Her art is drawn in different proportions from the Keeper.
-- **You can't rebind the keys yet.**
+- **The Bard and the Fanatic are half-built.** You can wear them from the chest. The Fanatic cannot
+  fight at all. The Bard can, but he has no animation for it — what you see is a note crossing the
+  gap and a ring going out, standing in for art nobody has drawn yet.
+- **The skill pages have empty sockets.** None of the Bard's twelve skills has a face drawn for it,
+  and only two of them do anything.
+- **The Bard and the thorns make no sound.**
 
 Everything else is fair game.
 
