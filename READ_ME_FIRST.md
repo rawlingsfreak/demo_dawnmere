@@ -66,6 +66,15 @@ the ending, not a crash. Everything after that is still being built.
 - **The swamp.** There are mud islands and a second ruined tower in it now. The question is whether
   you can tell where you are.
 - **Keys can be rebound** — Escape, then Controls.
+- **The road home has a job.** Two of Wren's wards stand on the north shore, one cracked and
+  sparkling. Pressing it back down costs wood. Did you notice it, and did it make you gather on the
+  way rather than just walk?
+- **The road is greying.** The drain now reaches up the north shore, so the walk between the cave
+  and town is no longer all green, and things can stand on it.
+- **More to fight, in packs.** Foes come in groups now, a few by day and more at night. Some packs
+  are *marked* (quick, heavy, ironbound and so on) and have little motes circling them. Was it ever
+  too much, or still too quiet?
+- **The cave has a real floor.** If it still feels like something is missing in there, say what.
 
 ---
 
@@ -74,11 +83,11 @@ the ending, not a crash. Everything after that is still being built.
 - **Townsfolk don't walk.** They have their own faces but no walking animation, so they stand still
   while they talk to you.
 - **Wren doesn't match everyone else.** Her art is drawn in different proportions from the Keeper.
-- **The Bard and the Fanatic are half-built.** You can wear them from the chest. The Fanatic cannot
-  fight at all. The Bard can, but he has no animation for it — what you see is a note crossing the
+- **The Bard and the Fanatic are half-built.** You can wear them from the chest. The Fanatic has a
+  skill tree and Smite on his bar, but he cannot fight at all yet, so Smite does nothing. The Bard can, but he has no animation for it — what you see is a note crossing the
   gap and a ring going out, standing in for art nobody has drawn yet.
-- **The skill pages have empty sockets.** None of the Bard's twelve skills has a face drawn for it,
-  and only two of them do anything.
+- **The skill pages have empty sockets.** None of the Bard's or the Fanatic's skills has a face
+  drawn for it yet, and only a couple of the Bard's do anything.
 - **The Bard and the thorns make no sound.**
 
 Everything else is fair game.

@@ -41,14 +41,18 @@ ending, not a crash.
 - **The Hallow has thorns**, invisible without a light and painful either way.
 - **The swamp** has islands and a second tower, to see whether you can tell where you are.
 - **Keys rebind** — Escape, then Controls.
+- **The road home** has two of Wren's wards on it, one cracked; pressing it back down costs wood.
+- **The drain reaches up the north shore**, so the road greys and things stand on it.
+- **Foes come in packs**, more at night, and some packs are marked: quicker, heavier, tougher.
+- **The cave has a real floor.**
 
 ## Already known — no need to report these
 
 - Townsfolk have their own faces but no walking animation, so they stand still.
 - Wren is drawn in different proportions from everyone else.
-- The Bard and the Fanatic can be worn but are half-built: the Fanatic cannot fight, and the Bard's
+- The Bard and the Fanatic can be worn but are half-built: the Fanatic has a skill tree but cannot fight yet, and the Bard's
   attacks are placeholder effects rather than animation.
-- Skill icons are not drawn, so the skill pages have empty sockets.
+- Skill icons for the Bard and the Fanatic are not drawn, so their skill pages have empty sockets.
 - The Bard and the thorns make no sound.
 
 Everything else is fair game. **Where you got stuck is the most useful thing you can send back** —
