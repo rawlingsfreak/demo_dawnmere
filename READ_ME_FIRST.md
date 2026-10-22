@@ -45,6 +45,10 @@ The game teaches you the ones it needs, when it needs them. The rest are here if
 | See what's on the ground | hold **Alt** |
 | Menu, settings, quit | **Esc** |
 
+**On a controller:** left stick walks, **A** talks and uses, **RT** attacks, **RB** is your skill,
+**B** dodges, **Y** vaults, **LT** and **LB** are abilities, the **D-pad** is food and potions,
+**L3** runs, **Back** opens the bag and **Start** pauses. Aiming is still the mouse.
+
 ---
 
 ## It ends on purpose
@@ -56,25 +60,42 @@ the ending, not a crash. Everything after that is still being built.
 
 ## New since the last build — this is what we most want eyes on
 
-- **The town.** Buildings and people have been moved. Rowan, Mara, Thom and Nessa should each be
-  standing somewhere that makes sense and should be *visible* — if anyone is behind a wall, on a
-  roof, or simply not there, say so.
-- **The farm.** The Old Holding opens in three stages and now tells you which one you are on and
-  what it is waiting for. If you still cannot tell why you can't do more, that is the note to send.
-- **The Hallow has thorns in it.** You cannot see them without a torch or the lantern, and they
-  hurt either way. Going down dark is supposed to cost you.
-- **The swamp.** There are mud islands and a second ruined tower in it now. The question is whether
-  you can tell where you are.
-- **Keys can be rebound** — Escape, then Controls.
+A lot has changed. The three biggest things are the man you play, how fighting feels, and the fact
+that there are now **three different ways to fight**.
+
+- **The Keeper has been redrawn.** Same person in every class now, down to the pixel — before this
+  they did not look like the same man. His rapier stays sheathed until he fights.
+- **Combat is all new art.** Eleven whole motions in eight directions rather than poses spliced
+  together, and the chain is a fifth quicker than it was.
+- **You can play the whole thing on a controller.** Left stick walks, A talks, RT attacks, B
+  dodges, the D-pad is your pockets, Back is the bag and Start pauses. Menus can be reached without
+  touching the mouse. **Aim is still the mouse** — that one is not done, and if you try to play
+  purely on the pad you will find it. Say how badly.
+- **All three classes can fight now.** The Duelist has the longest reach and wants you to pick
+  targets. The **Fanatic** swings a mace in a wide arc and throws a bolt of ward-light that is
+  devastating to anything the drain made. The **Bard** fights from across the room with notes you
+  can see flying, and he gets stronger the longer nobody interrupts him. They are deliberately not
+  the same; tell us if one of them feels pointless.
+- **Loot you can read.** Drops are coloured by rung, they name themselves, and the shop and the
+  bench have tooltips that compare against what you are already wearing.
+- **Levelling was far too fast and is now calibrated.** Seventeen kills used to make you level 8.
+- **Foes drop rolled gear**, and what metal it is depends on the ground you killed them on.
+
+**And four things from the October build that never went out**, so this is the first time anyone
+outside has seen them:
+
 - **The road home has a job.** Two of Wren's wards stand on the north shore, one cracked and
   sparkling. Pressing it back down costs wood. Did you notice it, and did it make you gather on the
   way rather than just walk?
 - **The road is greying.** The drain now reaches up the north shore, so the walk between the cave
   and town is no longer all green, and things can stand on it.
 - **More to fight, in packs.** Foes come in groups now, a few by day and more at night. Some packs
-  are *marked* (quick, heavy, ironbound and so on) and have little motes circling them. Was it ever
-  too much, or still too quiet?
+  are *marked* — quick, heavy, ironbound and so on. Was it ever too much, or still too quiet?
 - **The cave has a real floor.** If it still feels like something is missing in there, say what.
+
+**The honest unfinished bits**, so you do not waste a note on them: the Bard and Fanatic have skill
+icons missing from their pages, marked foes look like ordinary ones with motes round them, and
+there are only five kinds of enemy in the whole valley.
 
 ---
 
@@ -83,11 +104,11 @@ the ending, not a crash. Everything after that is still being built.
 - **Townsfolk don't walk.** They have their own faces but no walking animation, so they stand still
   while they talk to you.
 - **Wren doesn't match everyone else.** Her art is drawn in different proportions from the Keeper.
-- **The Bard and the Fanatic are half-built.** You can wear them from the chest. The Fanatic has a
-  skill tree and Smite on his bar, but he cannot fight at all yet, so Smite does nothing. The Bard can, but he has no animation for it — what you see is a note crossing the
+- **The Bard and the Fanatic are half-built.** You can wear them from the chest. The Fanatic cannot
+  fight at all. The Bard can, but he has no animation for it — what you see is a note crossing the
   gap and a ring going out, standing in for art nobody has drawn yet.
-- **The skill pages have empty sockets.** None of the Bard's or the Fanatic's skills has a face
-  drawn for it yet, and only a couple of the Bard's do anything.
+- **The skill pages have empty sockets.** None of the Bard's twelve skills has a face drawn for it,
+  and only two of them do anything.
 - **The Bard and the thorns make no sound.**
 
 Everything else is fair game.
