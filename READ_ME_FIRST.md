@@ -60,56 +60,109 @@ the ending, not a crash. Everything after that is still being built.
 
 ## New since the last build — this is what we most want eyes on
 
-A lot has changed. The three biggest things are the man you play, how fighting feels, and the fact
-that there are now **three different ways to fight**.
+**Three weeks since the last one, which is the longest gap yet.** Two things changed that you will
+notice in the first minute, and one that you may not find at all.
 
-- **The Keeper has been redrawn.** Same person in every class now, down to the pixel — before this
-  they did not look like the same man. His rapier stays sheathed until he fights.
-- **Combat is all new art.** Eleven whole motions in eight directions rather than poses spliced
-  together, and the chain is a fifth quicker than it was.
-- **You can play the whole thing on a controller.** Left stick walks, A talks, RT attacks, B
-  dodges, the D-pad is your pockets, Back is the bag and Start pauses. Menus can be reached without
-  touching the mouse. **Aim is still the mouse** — that one is not done, and if you try to play
-  purely on the pad you will find it. Say how badly.
-- **All three classes can fight now.** The Duelist has the longest reach and wants you to pick
-  targets. The **Fanatic** swings a mace in a wide arc and throws a bolt of ward-light that is
-  devastating to anything the drain made. The **Bard** fights from across the room with notes you
-  can see flying, and he gets stronger the longer nobody interrupts him. They are deliberately not
-  the same; tell us if one of them feels pointless.
-- **Loot you can read.** Drops are coloured by rung, they name themselves, and the shop and the
-  bench have tooltips that compare against what you are already wearing.
-- **Levelling was far too fast and is now calibrated.** Seventeen kills used to make you level 8.
-- **Foes drop rolled gear**, and what metal it is depends on the ground you killed them on.
+### The game is in chapters
 
-**And four things from the October build that never went out**, so this is the first time anyone
-outside has seen them:
+It opens on a card that says **Chapter I · The Keeper's Absence**, then names your class, then
+gives you the road. **Three cards in a row before you can move**, each dismissed with any key.
 
-- **The road home has a job.** Two of Wren's wards stand on the north shore, one cracked and
-  sparkling. Pressing it back down costs wood. Did you notice it, and did it make you gather on the
-  way rather than just walk?
-- **The road is greying.** The drain now reaches up the north shore, so the walk between the cave
-  and town is no longer all green, and things can stand on it.
-- **More to fight, in packs.** Foes come in groups now, a few by day and more at night. Some packs
-  are *marked* — quick, heavy, ironbound and so on. Was it ever too much, or still too quiet?
-- **The cave has a real floor.** If it still feels like something is missing in there, say what.
+**That is the thing we most want you to react to.** Too much ceremony before you have touched
+anything? Say so plainly — it is a five minute change and we would rather hear it than guess.
 
-**The honest unfinished bits**, so you do not waste a note on them: the Bard and Fanatic have skill
-icons missing from their pages, marked foes look like ordinary ones with motes round them, and
-there are only five kinds of enemy in the whole valley.
+**Chapter I is the only one you will see**, because the demo ends at the willow door and Chapter II
+begins underneath it.
+
+Press **J** and look at the Quests tab. Everything you are doing is now filed under a chapter, and
+**the farm deliberately has no number** — it sits beside the story rather than behind it, because
+a week spent farming is not falling behind.
+
+### The valley asks you for things
+
+Until this build there were twenty-eight quests and **not one of them was optional.** Two straight
+lines, no branches, nothing you could walk past or choose to ignore. That is the biggest single
+change here.
+
+**Seeps.** Places where the ground is going faster than it can take. You will see one line in the
+corner of the screen telling you so, and **nothing will pause or block you** — walk away and it is
+genuinely fine. Clearing one **holds that ground for good**: the valley is a little better
+afterwards and stays that way. Three kinds, and the third is the one to find:
+
+> **Sheep have wandered onto the grey and do not know it.** Three of them, seventy-five seconds,
+> and the clock runs whether you are stood there or not. Turn them all back and the ground holds.
+> Walk away — or walk into town — and **the drain keeps the ground.**
+
+**You will not see a seep until you have driven a ward of your own.** Wren's four on the road home
+do not count, so: finish *What She Left Locked*, drive one, and then go for a walk before you go
+down to the willow. **The demo ends the moment you finish the next quest**, so that walk is the
+whole window — take it.
+
+**And five things the town asks for.** From people you already talk to, each grown out of something
+they have been saying for weeks. Two are reachable early:
+
+- **Mara**, after *Wren's Last Morning* — her daughter Fen will not walk past the pines any more.
+  She is nine. She was never frightened of anything.
+- **Nessa**, after *The Quiet Place* — four went out looking for Wren and four came back. Her gate
+  board says **five went out.** This one can kill you: there is no level scaling in this game, so
+  where it sends you is where it sends you. Go armed.
+
+**Those two are the only ones you can reach.** The other three open after quests that are past
+where this demo stops. **None of the five is placeholder writing** — unlike the townsfolk's
+ordinary chatter, these are written.
+
+### The valley has people in it, and they walk
+
+- **Twenty-five people with their own bodies**, where last build ten shared four. A miller, a
+  carter, a dairy maid, a shepherd, a dock fisher, an archer on Westreach's wall, a lay brother.
+- **They walk** — eight directions, properly drawn. Last build nobody in Dawnmere had a walk at
+  all; they slid and bobbed two pixels. **This is the thing the last notes told you not to report.
+  Report it.**
+- **And they do something while they stand.** The farm folk stoop, the miller leans into weight,
+  the watchers breathe. Does it read as a place people live in, or as decoration?
+
+### The marsh is dangerous, and fighting has weight
+
+- **Step off the boardwalk** and the Drowned Knights are there — slow, plated, a thing you decide
+  to fight. **Or goblins instead**, a warren of six to ten with a Pot-helm and a stone-slinger. A
+  little over half the time it is the warren, so neither is what you expect.
+- **A blow stops the world** — hitstop and a shake weighted by how much health it took.
+- **Every foe draws back before it swings** and holds still while it does, so you can see it coming.
+- **Twelve enemy faces** beside the health bar. It used to be a Hollow's face whatever you fought.
+- **The Drowned Knight has his sword in every frame.** He held a greatsword standing still and then
+  swung at you empty-handed, since September.
+
+### In the build, past where it ends
+
+The demo still stops at the willow door, which is deliberate — the card that says **"Dawnmere —
+The demo ends here"** is the ending, not a crash. These are in this build and on the other side of
+it, listed so nobody hunts:
+
+- **The Hallow is a story all the way to the bottom.** Seven quests and 36 objectives below the
+  great door, ending on a piece of office stationery with a name on it.
+- **Sealing a Hallow floor pushes the drain back across the whole valley**, permanently.
+- **Three of the five errands**, and the Hollow Briar that lives on floors 7, 9 and 10.
+- **Aelthar and the Lantern King** — a city under the valley, with no way in yet.
 
 ---
 
 ## Already known — please don't spend notes on these
 
-- **Townsfolk don't walk.** They have their own faces but no walking animation, so they stand still
-  while they talk to you.
 - **Wren doesn't match everyone else.** Her art is drawn in different proportions from the Keeper.
-- **The Bard and the Fanatic are half-built.** You can wear them from the chest. The Fanatic cannot
-  fight at all. The Bard can, but he has no animation for it — what you see is a note crossing the
-  gap and a ring going out, standing in for art nobody has drawn yet.
-- **The skill pages have empty sockets.** None of the Bard's twelve skills has a face drawn for it,
-  and only two of them do anything.
-- **The Bard and the thorns make no sound.**
+- **The Bard has no animation for fighting.** He fights properly, but what you see is a note
+  crossing the gap and a ring going out, standing in for art nobody has drawn.
+- **Nothing on screen says the Bard is building.** Hold his drone and he gets stronger the longer
+  nobody interrupts him, with no bar and no glow saying so. We know that is asking a lot.
+- **The Bard, the thorns, the goblins and the Briar make no sound of their own.** The goblins
+  chitter like a Gnaw, the Briar lashes like a Reacher.
+- **No music during a fight.** The system is built and no track is chosen.
+- **The townsfolk's ordinary lines are placeholder writing.** The bodies are theirs; the small talk
+  is not. The five errands above are written and are fair game.
+- **Band three's floor is brown, not the gold it is meant to be**, deep in the Hallow, and some
+  pale veins repeat with the tile.
+
+**No longer true, so please do report these:** people not walking, the Reacher growing legs, skills
+without icons, and marked foes being hard to spot. All four were on this list and all four are done.
 
 Everything else is fair game.
 
